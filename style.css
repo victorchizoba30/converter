@@ -1,0 +1,12 @@
+body{
+    margin-top: 70px;
+    background: url(../js/hd_3c458c6c82a820efdf81c0ee9309776c.jpg);
+    background-attachment: fixed;
+    background-size: cover;
+    color: white;
+}
+
+#body h1{
+    color: rgb(84, 219, 100);
+    font-weight: bold;
+}
